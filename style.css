@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    background-color: rgb(63, 58, 58);
+}
+.card{
+    background: linear-gradient(to right, rgb(219, 239, 180), rgb(67, 69, 71));
+}
+.card-header{
+    background-color: black;
+    color: white;
+    font-size: bold;
+}
